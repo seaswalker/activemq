@@ -21,7 +21,7 @@ import org.apache.activemq.broker.region.Region;
 import org.apache.activemq.broker.region.Subscription;
 
 /**
- * Holds internal state in the broker for a  MessageConsumer
+ * Holds internal state in the broker for a MessageConsumer
  * 
  * 
  */
